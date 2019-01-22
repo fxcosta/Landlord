@@ -1,5 +1,5 @@
 {
-  "name": "hipsterjazzbo/landlord",
+  "name": "fxcosta/landlord",
   "description": "A simple, single database multi-tenancy solution for Laravel 5.2+",
   "license": "MIT",
   "keywords": [
@@ -12,6 +12,10 @@
     {
       "name": "Caleb Fidecaro",
       "email": "calebfidecaro@gmail.com"
+    },
+    {
+      "name": "Felix Costa",
+      "email": "fx3costa@gmail.com"
     }
   ],
   "require": {
